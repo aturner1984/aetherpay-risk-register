@@ -14,6 +14,19 @@ As a Senior GRC Analyst, I designed and implemented this project to demonstrate 
 ---
 
 ## 📁 Repository Architecture
+## 📁 Repository Architecture
+
+```text
+.
+├── README.md                          # Main project overview & summary table
+├── docs/
+│   ├── Risk_Assessment_Methodology.md # Full 5x5 matrix & financial scoring thresholds
+│   └── Executive_Risk_Memo.md        # CISO-level decision brief for Risk R-101
+└── templates_and_data/
+    ├── AetherPay_Risk_Register.xlsx   # Main interactive Risk Register spreadsheet
+    └── Risk_Register_Export.csv       # Raw CSV version for quick GitHub viewing
+```
+
 ## 🎯 Key Highlights & Deliverables
 
 ### 1. Risk Scoring Methodology (`docs/Risk_Assessment_Methodology.md`)
