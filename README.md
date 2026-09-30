@@ -11,7 +11,6 @@ This repository contains the operational **Enterprise Risk Management (ERM)** po
 
 As a Senior GRC Analyst, I designed and implemented this project to demonstrate end-to-end risk lifecycle management: establishing quantitative scoring thresholds, evaluating technical cloud risks, mapping control frameworks, and authoring executive briefs for leadership decision-making.
 
----
 
 ## 📁 Repository Architecture
 
