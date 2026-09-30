@@ -14,8 +14,6 @@ As a Senior GRC Analyst, I designed and implemented this project to demonstrate 
 ---
 
 ## 📁 Repository Architecture
----
-
 ## 🎯 Key Highlights & Deliverables
 
 ### 1. Risk Scoring Methodology (`docs/Risk_Assessment_Methodology.md`)
