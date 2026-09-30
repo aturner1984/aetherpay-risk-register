@@ -14,7 +14,6 @@ As a Senior GRC Analyst, I designed and implemented this project to demonstrate 
 ---
 
 ## 📁 Repository Architecture
-## 📁 Repository Architecture
 
 ```text
 .
